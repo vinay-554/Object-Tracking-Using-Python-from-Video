@@ -87,7 +87,8 @@ The FPS counter measures the performance of the object detection system, providi
 
 ## Example Output
 
-![Example Output](path-to-your-example-image.png)
+![Screenshot 2024-07-09 181430](https://github.com/vinay-554/Object-Tracking-Using-Python-from-Video/assets/164205914/c36c7ea6-fc38-4cb6-87cc-2c1977891455)
+
 
 ## Contributing
 
