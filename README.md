@@ -1,6 +1,6 @@
 # Real-Time Object Detection Using Caffe
 
-This project demonstrates real-time object detection using a pre-trained Caffe model. The system captures video from a webcam, processes each frame to detect objects, and displays the results with bounding boxes and labels.
+This project demonstrates real-time object detection using a pre-trained Caffe(Convolutional Architecture for Fast Feature Embedding) model. The system captures video from a webcam, processes each frame to detect objects, and displays the results with bounding boxes and labels.
 
 ## Table of Contents
 - [Introduction](#introduction)
